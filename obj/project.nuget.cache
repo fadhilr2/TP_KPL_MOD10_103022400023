@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+wkzL8ahepI=",
+  "dgSpecHash": "w+cnr52oPm8=",
   "success": true,
   "projectFilePath": "C:\\Users\\bob\\source\\repos\\TP_MOD10_103022400023\\TP_MOD10_103022400023\\TP_MOD10_103022400023.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bob\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
-    "C:\\Users\\bob\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\bob\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\bob\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
   ],
   "logs": []
 }
